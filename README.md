@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Shiva Prasad 👋
 
-<!--
-**shiva0824/shiva0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Computer Science at Clarkson University (Dec 2025), with interests in **Software Engineering**, **Machine Learning**, and **Natural Language Processing**.
 
-Here are some ideas to get you started:
+I’ve built end-to-end ML/NLP projects using Python, deep learning, and transformer models, and I'm currently diving into **MLOps**, **PostgreSQL**, **AWS**, and **Docker**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect if you are into tech, collaboration, or solving interesting problems.
+
+---
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shivaprasad0824/)
