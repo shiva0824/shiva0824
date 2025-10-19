@@ -1,10 +1,8 @@
 ## Hi there I'm Shiva Prasad 👋
 
-I'm a Master's student in Computer Science at Clarkson University (Dec 2025), with interests in **Software Engineering**, **Machine Learning**, and **Natural Language Processing**.
+I'm a Master's student in Computer Science at Clarkson University (Dec 2025), passionate about Machine Learning, MLOps, and Cloud Engineering, and I’m currently focused on building real-world projects using FastAPI, PostgreSQL, AWS, and MLflow.  
 
-I’ve built end-to-end ML/NLP projects using Python, deep learning, and transformer models, and I'm currently diving into **MLOps**, **PostgreSQL**, **AWS**, and **Docker**.
-
-Let’s connect if you are into tech, collaboration, or solving interesting problems.
+Ignore some of my earlier repositories, they were created during my initial learning phase. They’re simple, experimental, and part of my foundation, but you’re welcome to explore them for a nostalgic peek into how my learning journey began.
 
 ---
 
